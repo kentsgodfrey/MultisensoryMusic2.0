@@ -141,6 +141,15 @@
         "com.unity.render-pipelines.core": "17.6.0"
       }
     },
+    "com.unity.sdk.linux-x86_64": {
+      "version": "1.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.sysroot.base": "1.1.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.searcher": {
       "version": "4.9.5",
       "depth": 2,
@@ -164,6 +173,13 @@
         "com.unity.searcher": "4.9.5",
         "com.unity.graph-authoring": "1.0.0"
       }
+    },
+    "com.unity.sysroot.base": {
+      "version": "1.1.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
       "version": "1.8.0",
@@ -191,6 +207,15 @@
       "dependencies": {
         "com.unity.test-framework": "1.4.5",
         "com.unity.settings-manager": "2.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.toolchain.linux-x86_64-linux": {
+      "version": "1.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.sysroot.base": "1.1.0"
       },
       "url": "https://packages.unity.com"
     },
