@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "MultisensoryMusic2.0.slnx"
+    "dotnet.defaultSolution": "MultisensoryMusic2.slnx"
 }
